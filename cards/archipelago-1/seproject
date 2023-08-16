@@ -1,20 +1,19 @@
 # WARNING: If this file is deleted, Strange Eons will no longer
 # see this as a project/task folder!
 selected-members = :common/chaos-tokens.eon
-first-row = 0
+first-row = 10
 open-folders = \
     :antarctica:antarctica/city-of-the-elder-things:antarctica/main:antarctica/platea\
     u-of-leng:arkham:arkham/asylum:arkham/main:arkham/miskatonic:arkham/st-mary:arkha\
     m/woods:astral-conflux:astral-conflux/carcosa:astral-conflux/city-of-archives:ast\
     ral-conflux/court:astral-conflux/main:bermuda-triangle:bermuda-triangle/main:berm\
     uda-triangle/yuggoth:cairo:cairo/bent-pyramid:cairo/main:cairo/pyramids:common:du\
-    nwich:dunwich/aylesbury:dunwich/main:dunwich/sentinel-hill:innsmouth:kingsport:me\
-    xico-rainforests:mexico-rainforests/kn-yan:mexico-rainforests/main:mexico-rainfor\
-    ests/nkai:mexico-rainforests/yoth:paris:paris/main:paris/mont-saint-michel:rlyeh:\
-    shanghai:sydney:temporal-conflux:temporal-conflux/atlantis:temporal-conflux/hyper\
-    borea:temporal-conflux/main:temporal-conflux/pnakotus:temporal-conflux/salem:the-\
-    dreamlands:the-dreamlands/celephais:the-dreamlands/kadath:the-dreamlands/main:the\
-    -dreamlands/moon:the-dreamlands/ulthar:venice
+    nwich:dunwich/aylesbury:dunwich/main:dunwich/sentinel-hill:innsmouth:items:items/\
+    multiworld-artifacts:kingsport:mexico-rainforests:mexico-rainforests/kn-yan:mexic\
+    o-rainforests/main:mexico-rainforests/nkai:mexico-rainforests/yoth:paris:paris/ma\
+    in:paris/mont-saint-michel:rlyeh:shanghai:sydney:temporal-conflux:temporal-conflu\
+    x/atlantis:temporal-conflux/hyperborea:temporal-conflux/main:temporal-conflux/pna\
+    kotus:temporal-conflux/salem:venice
 notes = 
 res-id = toto
 type = PROJECT
