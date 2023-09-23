@@ -1,19 +1,21 @@
 # WARNING: If this file is deleted, Strange Eons will no longer
 # see this as a project/task folder!
-selected-members = :common/chaos-tokens.eon
-first-row = 10
+selected-members = :common/act-01.eon
+first-row = 3
 open-folders = \
     :antarctica:antarctica/city-of-the-elder-things:antarctica/main:antarctica/platea\
-    u-of-leng:arkham:arkham/asylum:arkham/main:arkham/miskatonic:arkham/st-mary:arkha\
-    m/woods:astral-conflux:astral-conflux/carcosa:astral-conflux/city-of-archives:ast\
-    ral-conflux/court:astral-conflux/main:bermuda-triangle:bermuda-triangle/main:berm\
-    uda-triangle/yuggoth:cairo:cairo/bent-pyramid:cairo/main:cairo/pyramids:common:du\
-    nwich:dunwich/aylesbury:dunwich/main:dunwich/sentinel-hill:innsmouth:items:items/\
-    multiworld-artifacts:kingsport:mexico-rainforests:mexico-rainforests/kn-yan:mexic\
-    o-rainforests/main:mexico-rainforests/nkai:mexico-rainforests/yoth:paris:paris/ma\
-    in:paris/mont-saint-michel:rlyeh:shanghai:sydney:temporal-conflux:temporal-conflu\
-    x/atlantis:temporal-conflux/hyperborea:temporal-conflux/main:temporal-conflux/pna\
-    kotus:temporal-conflux/salem:venice
+    u-of-leng:astral-conflux:astral-conflux/carcosa:astral-conflux/city-of-archives:a\
+    stral-conflux/court:astral-conflux/main:bermuda-triangle:bermuda-triangle/main:be\
+    rmuda-triangle/yuggoth:cairo:cairo/bent-pyramid:cairo/main:cairo/pyramids:common:\
+    dreamlands:dreamlands/celephais:dreamlands/main:dreamlands/moon:dreamlands/sarkom\
+    and:dreamlands/ulthar:dunwich:dunwich/aylesbury:dunwich/main:dunwich/sentinel-hil\
+    l:innsmouth:items:items/multiworld-artifacts:kingsport:mexico-rainforests:mexico-\
+    rainforests/kn-yan:mexico-rainforests/main:mexico-rainforests/nkai:mexico-rainfor\
+    ests/yoth:paris:paris/main:paris/mont-saint-michel:rlyeh:shanghai:start-arkham:st\
+    art-arkham/asylum:start-arkham/main:start-arkham/miskatonic:start-arkham/st-mary:\
+    start-arkham/woods:sydney:sydney/australian-wilderness:sydney/main:temporal-confl\
+    ux:temporal-conflux/atlantis:temporal-conflux/hyperborea:temporal-conflux/main:te\
+    mporal-conflux/pnakotus:temporal-conflux/salem:venice
 notes = 
 res-id = toto
 type = PROJECT
